@@ -1,0 +1,10 @@
+ipynb to exe -----
+   in shell -> pip install ipython
+	    -> pip install nbconvert
+	    -> ipython nbconvert --to script {file name.ipynb}(press tab to complete it)
+py to exe -------
+   in shell -> pip install pyinstaller
+	    -> pyinstaller (file name.py) (press tab to complete it)
+Now 
+  dist  -> file.exe
+    ---------------xxxxxxxxxxxxxxxxxx---------------
